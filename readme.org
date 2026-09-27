@@ -35,5 +35,5 @@ Logicomix to this day remains in my memory as a beautiful exploration of the med
 The Introducing Graphic Guide series are a mixed bag of comics towards understanding various subjects. Some are decent/good, others below par. I recommend checking them out somewhere / see if better introductions exist before you purchase them.
 
 #+BEGIN_HTML
-<img width=400 src="./images/introducing-psychology.png" alt="Cover of Introducing Psychology">
+<img width=400 src="./images/introducing-psychology.jpg" alt="Cover of Introducing Psychology">
 #+END_HTML
