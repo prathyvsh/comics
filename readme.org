@@ -3,3 +3,4 @@ A curation of non-fiction-esque comics
 
 * [[https://amzn.to/4rETPmE][Understanding Comics]]
 
+[[./images/understanding-comics.png]]
