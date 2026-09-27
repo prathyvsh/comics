@@ -37,3 +37,10 @@ The Introducing Graphic Guide series are a mixed bag of comics towards understan
 #+BEGIN_HTML
 <img width=400 src="./images/introducing-psychology.jpg" alt="Cover of Introducing Psychology">
 #+END_HTML
+
+* [[https://amzn.to/4rwtYgq][The Middle Ages]]
+Shines light on a less explored part of human history and debunks how “the dark ages” is not a good description of what happened in this time frame.
+
+#+BEGIN_HTML
+<img width=400 src="./images/middle-ages.jpg" alt="Cover of The Middle Ages">
+#+END_HTML
