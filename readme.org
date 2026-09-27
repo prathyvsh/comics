@@ -4,10 +4,22 @@ A curation of non-fiction-esque comics
 * [[https://amzn.to/4rETPmE][Understanding Comics]]
 Understanding Comics is this book which thoroughly changed the way I look at comic books. It is chockful of great ideas, many of which can be / are yet to be applied to interaction design
 
-[[./images/understanding-comics.png]]
+#+BEGIN_HTML
+<img width=400 src="./images/understanding-comics.png" alt="Cover of Understanding Comics">
+#+END_HTML
 
 * [[https://amzn.to/46LhYyg][Unflattening]]
 
 Unflattening is a philosophical contemplation of how our world is increasingly becoming flat and how one can work against this gradual flattening of everything around us. So many cool panels in this one.
 
-[[./images/unflattening.png]]
+#+BEGIN_HTML
+<img width=400 src="./images/unflattening.png" alt="Cover of Unflattening">
+#+END_HTML
+
+* [[https://amzn.to/46LhYyg][Buddha: An Enlightened Life]]
+
+A decent read to understand the life of Buddha. There are certain bits I donʼt agree with in the book like the gimmicks / magic tricks that Buddha performs to impress others. In my understanding he was more of a psychologist than a miracle worker. There are also some supernatural deities which could have been done away with. Overall, I thought it was a really good effort and the part where Buddha uphold his Dhamma and continues his preaching to heal the world despite things going south in the kingdom towards the end was oddly uplifting!
+
+#+BEGIN_HTML
+<img width=400 src="./images/buddha.jpg" alt="Cover of Buddha">
+#+END_HTML
