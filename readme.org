@@ -23,3 +23,10 @@ A decent read to understand the life of Buddha. There are certain bits I donʼt 
 #+BEGIN_HTML
 <img width=400 src="./images/buddha.jpg" alt="Cover of Buddha">
 #+END_HTML
+
+* [[https://amzn.to/34hn9Tz][Logicomix]]
+Logicomix to this day remains in my memory as a beautiful exploration of the medium to talk about a serious topic. It features Bertrand Russell, Gödel, Hilbert, and many other logic heroes of 20th century.
+
+#+BEGIN_HTML
+<img width=400 src="./images/logicomix.png" alt="Cover of Logicomix">
+#+END_HTML
