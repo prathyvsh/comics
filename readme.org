@@ -44,3 +44,10 @@ Shines light on a less explored part of human history and debunks how “the dar
 #+BEGIN_HTML
 <img width=400 src="./images/the-middle-ages.jpg" alt="Cover of The Middle Ages">
 #+END_HTML
+
+* [[https://amzn.to/4rwSCNQ][Democracy]]
+On the beginnings of democracy in early Greece.
+
+#+BEGIN_HTML
+<img width=400 src="./images/democracy.jpg" alt="Cover of Democracy">
+#+END_HTML
