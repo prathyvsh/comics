@@ -51,3 +51,10 @@ On the beginnings of democracy in early Greece.
 #+BEGIN_HTML
 <img width=400 src="./images/democracy.jpg" alt="Cover of Democracy">
 #+END_HTML
+
+* [[https://amzn.to/4jrkqBd][Suspended in Language]]
+Recounts the story of Niels Bohr and his discoveries
+
+#+BEGIN_HTML
+<img width=400 src="./images/suspended-in-language.png" alt="Cover of Suspended in Language">
+#+END_HTML
